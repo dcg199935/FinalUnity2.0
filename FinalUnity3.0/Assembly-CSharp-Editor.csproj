@@ -47,11 +47,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
-     <Compile Include="Assets\StarterAssets\Editor\ScriptingDefineUtils.cs" />
-     <Compile Include="Assets\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
-     <Compile Include="Assets\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
      <Compile Include="Assets\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
+     <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+     <Compile Include="Assets\StarterAssets\Editor\PackageChecker\PackageChecker.cs" />
+     <Compile Include="Assets\StarterAssets\Editor\ScriptingDefineUtils.cs" />
+     <Compile Include="Assets\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
      <None Include="Assets\StarterAssets\Editor\PackageChecker\PackageImportList.txt" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
